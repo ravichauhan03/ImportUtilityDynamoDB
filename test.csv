@@ -1,0 +1,3 @@
+partition_key,sort_key,designation,description,display_name,team_members,extn_id
+string,string,string,string,string,stringset,int
+IT,Nelson Rocio Mathew,Software Engineer,Good Guy,Nelson,Tom|Kerry|Matt,12345
